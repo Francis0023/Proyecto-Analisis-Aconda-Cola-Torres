@@ -3,10 +3,9 @@ Repsitorio-Proyecto
 
 Pdf. y Doc. Detallado con todo:
 
-[Proyecto-Analisis_GR2_Aconda_Cola_Torres.pdf](https://github.com/Francis0023/Proyecto-Analisis-Aconda-Cola-Torres/files/14492448/Proyecto-Analisis_GR2_Aconda_Cola_Torres.pdf)
+[Proyecto-Analisis_GR2_Aconda_Cola_Torres.pdf](https://github.com/Francis0023/Proyecto-Analisis-Aconda-Cola-Torres/files/14497413/Proyecto-Analisis_GR2_Aconda_Cola_Torres.pdf)
 
-
-[Proyecto-Analisis_GR2_Aconda_Cola_Torres.docx](https://github.com/Francis0023/Proyecto-Analisis-Aconda-Cola-Torres/files/14492451/Proyecto-Analisis_GR2_Aconda_Cola_Torres.docx)
+[Proyecto-Analisis_GR2_Aconda_Cola_Torres.docx](https://github.com/Francis0023/Proyecto-Analisis-Aconda-Cola-Torres/files/14497441/Proyecto-Analisis_GR2_Aconda_Cola_Torres.docx)
 
 
 
