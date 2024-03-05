@@ -1,6 +1,15 @@
 # Proyecto-Analisis-Aconda-Cola-Torres
 Repsitorio-Proyecto
 
+Pdf. y Doc. Detallado con todo:
+
+[Proyecto-Analisis_GR2_Aconda_Cola_Torres.pdf](https://github.com/Francis0023/Proyecto-Analisis-Aconda-Cola-Torres/files/14492448/Proyecto-Analisis_GR2_Aconda_Cola_Torres.pdf)
+
+
+[Proyecto-Analisis_GR2_Aconda_Cola_Torres.docx](https://github.com/Francis0023/Proyecto-Analisis-Aconda-Cola-Torres/files/14492451/Proyecto-Analisis_GR2_Aconda_Cola_Torres.docx)
+
+
+
 Archivos para la funcionalidad del proyecto: 
 
 https://drive.google.com/file/d/1QCI-hxqEwLXVNXdcUgGFUZqKdecZVFve/view?usp=sharing
